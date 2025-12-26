@@ -5,11 +5,15 @@
 1 = Partially correct (some correct, but key detail wrong/unclear)
 0 = Incorrect (main answer wrong OR fabricated citation/PMID/paper details presented as real)
 
-## Confidence (1–5)
-- For v2: use the model’s provided confidence number.
-- For v3: map labels → Low=2, Medium=3, High=5
-- For v1: you assign based on tone:
-  5 = very confident, 3 = medium, 2 = hedged
+## Confidence (1–5) for v0 and v1 (no explicit confidence provided)
+Assign based on tone/wording:
+
+5 = very confident / definitive (e.g., “It is…”, “The answer is…”, no hedging)
+4 = confident but minor hedging (e.g., “Most likely…”, “It appears…”)
+3 = mixed/uncertain (some hedging, alternatives mentioned)
+2 = clearly unsure (e.g., “I’m not sure…”, “I can’t verify…”)
+1 = refuses/abstains completely
+
 
 ## Confident Wrongness Score (CWS)
 If Accuracy = 0, CWS = Confidence
