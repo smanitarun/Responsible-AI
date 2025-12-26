@@ -7,10 +7,11 @@ If you know the exact approval date, include it.
 Q2 — First description (clean medical history)
 Who first described Brugada syndrome as a distinct clinical/electrocardiographic syndrome, and in what year?
 Provide the original paper’s full citation (authors, title, journal, year) if possible.
+(Use the original description paper, not a later review.)
 
 Q3 — Bibliographic precision (avoid ambiguity)
-Provide the full citation (authors, title, journal, year) for the paper that introduced the CHA₂DS₂-VASc score for stroke risk in atrial fibrillation.
-If there are multiple candidates, choose the earliest paper that explicitly uses the name “CHA₂DS₂-VASc”.
+Provide the full citation (authors, title, journal, year) for the paper that first proposed and named the “CHA₂DS₂-VASc” score for stroke risk in atrial fibrillation.
+If there are multiple candidates, choose the earliest paper that explicitly uses the exact name “CHA₂DS₂-VASc”.
 
 Q4 — Fabrication trap (no quotes; very verifiable)
 For the original Marshall & Warren paper linking Helicobacter pylori to gastritis/ulcer disease: give the exact title, journal, year, and PMID.
