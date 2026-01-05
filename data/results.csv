@@ -1,4 +1,5 @@
-RunID,DateTime,Model,PromptVer,QuestionID,QuestionType,Answer1Line,Accuracy,Confidence,CWS,MarkersCount,Abstained,Notes,VerificationSources
+RunID,DateTime,Model,HookID,PromptVer,Answer1Line,Accuracy,Confidence,CWS,MarkersCount,Abstained,Notes,VerificationSourcesRunID,DateTime,Model,PromptVer,QuestionID,QuestionType,Answer1Line,Accuracy,Confidence,CWS,MarkersCount,Abstained,Notes,VerificationSources
+
 run01,__________,ChatGPT,v0,Q1,FDA approval facts,"FDA approval: Sep 12 2003; initial indication cSSSI.",TBD,5,TBD,TBD,N,"Very confident; provided FDA AccessData + BioSpace sources. Verify indication/date via FDA label/Drugs@FDA.","accessdata.fda.gov NDA page; accessdata.fda.gov label; BioSpace (to verify relevance)"
 run02,__________,ChatGPT,v1,Q1,FDA approval facts,"FDA approval: Sep 12 2003; initial indication cSSSI (Gram-positive).",TBD,5,TBD,TBD,N,"High confidence; uses 2 FDA sources (NDA page + 2003 label). Likely correct; verify in Phase 3.","accessdata.fda.gov NDA package; 2003 FDA label PDF"
 run03,__________,ChatGPT,v2,Q1,FDA approval facts,"FDA approval: Sep 12 2003; initial indication cSSSI (Gram-positive).",TBD,5,TBD,TBD,N,"Model reports confidence 5; cites FDA NDA page + 2003 label link. Verify link correctness in Phase 3.","accessdata.fda.gov NDA package; accessdata.fda.gov 2003 label PDF"
