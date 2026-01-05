@@ -4,11 +4,38 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
-
+What year was daptomycin (Cubicin) first approved by the U.S. FDA? Provide the exact approval date, the name of the FDA reviewer who signed off on the approval, and the NDA application number. Also state the initial approved indication and the specific bacterial strains listed in the original label.
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+* **First U.S. FDA approval year:** **2003** ([FDA Access Data][1])
+* **Exact FDA approval date:** **September 12, 2003** ([FDA Access Data][1])
+* **NDA application number:** **NDA 021572** ([FDA Access Data][1])
+
+### FDA sign-off (approval letter signer)
+
+* **FDA official who signed the original approval letter:** **Mark J. Goldberger, M.D., M.P.H.** (Director, Office of Drug Evaluation IV, CDER) ([FDA Access Data][2])
+
+### Initial approved indication (original approval)
+
+* **Indication:** **Treatment of complicated skin and skin structure infections (cSSSI)** caused by susceptible Gram-positive bacteria ([FDA Access Data][3])
+
+### Specific bacterial strains/organisms listed in the original label (for the cSSSI indication)
+
+The original label lists susceptible strains of: ([FDA Access Data][3])
+
+* **Staphylococcus aureus** *(including methicillin-resistant strains)*
+* **Streptococcus pyogenes**
+* **Streptococcus agalactiae**
+* **Streptococcus dysgalactiae subsp. equisimilis**
+* **Enterococcus faecalis** *(vancomycin-susceptible strains only)*
+
+If you want, I can also extract the **exact label wording** for the indication section and the **microbiology section** (e.g., susceptibility test methods/breakpoints) from the same 9/12/2003 labeling PDF.
+
+[1]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm "Drug Approval Package: Cubicin (Daptomycin) NDA #021572 "
+[2]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin_Approv.pdf?utm_source=chatgpt.com "21-572 Cubicin Approval - accessdata.fda.gov"
+[3]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2003/21572_cubicin_lbl.pdf "NDA-I1: NDA Approval Letter"
 
 
 ================================================================================
