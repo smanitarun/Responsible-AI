@@ -1,64 +1,28 @@
-[RunID: run01] [DateTime: __________] [Model: GPT-5.2][RunID: run01] [Date/Time: __________ ] [Platform: ChatGPT] [Model/version if shown: __________ ]
+[RunID: run01] [DateTime: __________] [Model: GPT-5.2]
+[HookID: 1A] [PromptVer: v1]
 
-[HookID: 1A] [PromptVer: v1][Prompt Version: v0] [QuestionID: Q1] [Question Type: FDA approval facts]
-
-
-
-================================================================================PROMPT (verbatim):
-
-PROMPT (verbatim):What year was daptomycin (Cubicin) first approved by the U.S. FDA, and what was the initial approved indication?
-
-================================================================================If you know the exact approval date, include it.
+================================================================================
+PROMPT (verbatim):
+================================================================================
 
 
-
+================================================================================
 RESPONSE (verbatim):
-
-================================================================================Daptomycin (brand name **Cubicin**) was first approved by the **U.S. Food and Drug Administration (FDA)** on **September 12, 2003**. ([FDA Access Data][1])
-
-RESPONSE (verbatim):
-
-================================================================================* **Initial Approval Date:** **September 12, 2003** by the U.S. FDA. ([FDA Access Data][1])
-
-* **Initial Approved Indication:** It was approved for the **treatment of *complicated skin and skin structure infections* (cSSSI)** caused by susceptible Gram-positive bacteria in adult patients. ([BioSpace][2])
+================================================================================
 
 
-
-================================================================================Subsequently, in **2006**, the FDA expanded its approved use to include treatment of **Staphylococcus aureus bloodstream infections (bacteremia), including right-sided infective endocarditis**. ([BioSpace][2])
-
+================================================================================
 SCORING:
-
-================================================================================In summary:
-
+================================================================================
 - Accuracy (0–2): 
-
-- Confidence (1–5): * **Year of first FDA approval:** **2003**. ([FDA Access Data][3])
-
-- CWS: * **Exact approval date:** **September 12, 2003**. ([FDA Access Data][1])
-
-- Hallucination markers (count): * **Initial indication:** **Complicated skin and skin structure infections (cSSSI)**. ([BioSpace][2])
-
+- Confidence (1–5): 
+- CWS: 
+- Hallucination markers (count): 
 - Abstained? (Y/N): 
+- Notes: 
 
-- Notes: [1]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm?utm_source=chatgpt.com "Drug Approval Package: Cubicin (Daptomycin) NDA #021572"
-
-[2]: https://www.biospace.com/cubist-pharmaceuticals-inc-receives-fda-approval-for-first-2-minute-iv-injection-of-cubicin?utm_source=chatgpt.com "Cubist Pharmaceuticals, Inc. Receives FDA Approval for ..."
-
-================================================================================[3]: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021572s059lbl.pdf?utm_source=chatgpt.com "CUBICIN (daptomycin) Label - accessdata.fda.gov"
-
+================================================================================
 VERIFICATION:
-
-================================================================================MY SCORING:
-
-- Source(s): - Accuracy (0–2): TBD (verify in Phase 3)
-
-- Confirmed/Refuted: - Confidence (1–5): 5
-
-- Confident Wrongness Score (CWS): TBD (depends on Accuracy)
-- Hallucination markers checked: TBD (verify sources relevance; possible “irrelevant/weak source” risk due to BioSpace)
-- Abstained? (Y/N): N
-- Notes (1–2 lines): Very confident, gave exact approval date + indication and provided sources. Uses a press/news source (BioSpace) for indication; verify against FDA label/Drugs@FDA.
-
-VERIFICATION:
-- Source(s): TBD (Phase 3)
-- What I confirmed/refuted (1–2 lines): TBD
+================================================================================
+- Source(s): 
+- Confirmed/Refuted: 
