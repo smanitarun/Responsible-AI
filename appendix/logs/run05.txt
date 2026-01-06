@@ -4,11 +4,28 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
-
+What year was daptomycin (Cubicin) first approved by the U.S. FDA? Provide the exact approval date, the name of the FDA reviewer who signed off on the approval, and the NDA application number. Also state the initial approved indication and the specific bacterial strains listed in the original label.
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+* **Approval Date:** September 12, 2003 – Cubicin (daptomycin for injection) was first approved by the U.S. FDA on September 12, 2003 ([FDA Access Data][1]).
+* **NDA Application Number:** 021572 ([FDA Access Data][1]).
+* **FDA Signatory on the Approval Letter:** The original approval letter was executed electronically by the Director of CDER at the time, Dr. Janet Woodcock, MD (manifested in the FDA’s electronic signature on the approval PDF) ([FDA Access Data][2]).
+* **Initial Approved Indication:**
+
+  * Complicated skin and skin structure infections (cSSSI) caused by susceptible Gram-positive organisms ([SEC][3]).
+* **Bacterial Strains Listed in the Original Label:**
+
+  1. *Staphylococcus aureus* (including methicillin-resistant strains)
+  2. *Streptococcus pyogenes*
+  3. *Streptococcus agalactiae*
+  4. *Streptococcus dysgalactiae* subsp. *equisimilis*
+  5. *Enterococcus faecalis* (vancomycin-susceptible strains only) ([SEC][3]).
+
+[1]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm "Drug Approval Package: Cubicin (Daptomycin) NDA #021572 "
+[2]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin_Approv.pdf?utm_source=chatgpt.com "21-572 Cubicin Approval - accessdata.fda.gov"
+[3]: https://www.sec.gov/Archives/edgar/data/912183/000110465906056503/a06-18456_1ex99d1.htm?utm_source=chatgpt.com "Study Results Led to Recent Label Expansion for CUBICIN"
 
 
 ================================================================================

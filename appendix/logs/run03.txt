@@ -4,11 +4,63 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
-
+Daptomycin (Cubicin) was initially rejected by the FDA in 2001 before being approved in 2003. What were the specific safety concerns cited in the 2001 rejection letter, and how did Cubist Pharmaceuticals address them in the resubmission? Include the exact dates of both the rejection and final approval
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+I tried to track down the **actual 2001 FDA “rejection letter” text** for daptomycin/Cubicin, but I could not locate a publicly posted FDA action letter from **2001** that lists deficiencies (FDA’s Drugs@FDA review PDFs for the original 2003 NDA exist, but I was not able to retrieve the specific FDA “action letter” content from them via the browsing tool in this session). What I *can* do reliably is:
+
+1. give you the **exact final approval date (from FDA)**,
+2. document the **specific safety problem that drove the earlier “not approvable” decision** (skeletal-muscle toxicity/CPK elevations tied to the older twice-daily regimen), and
+3. explain **exactly what Cubist changed in the eventual successful package** (once-daily dosing + safety monitoring/labeling + supportive clinical data).
+
+Also: multiple sources describe the “not approvable” action as occurring in **2002**, not 2001. For example, one payer/industry report states the original NDA was found “not approvable” in **March 2002** ([YUMPU][1]). If you *must* have the **exact letter date in 2001**, we’ll need a primary-source document that explicitly shows that date (e.g., the FDA action letter itself or a Cubist SEC filing/press release quoting it).
+
+## Exact dates (FDA action)
+
+* **Final FDA approval (Cubicin/daptomycin injection): September 12, 2003.** ([FDA Access Data][2])
+
+## Safety concerns cited in the “not approvable” decision (what they were)
+
+The core safety concern repeatedly tied to the original “not approvable” outcome was **skeletal muscle toxicity**:
+
+* In early development, **daptomycin 4 mg/kg given twice daily (BID)** produced **musculoskeletal toxicity** including **myalgia/muscle weakness with CPK (creatine phosphokinase) elevations**. 
+* This is the classic daptomycin risk signal: **dose/exposure-related myopathy/CPK elevations**, with concern for severe muscle injury (rhabdomyolysis in worst cases).
+
+## How Cubist addressed those safety concerns in the resubmission (what changed)
+
+Cubist’s key mitigation was to **change the regimen and build the safety case around it**:
+
+1. **Switched from twice-daily to once-daily dosing**
+
+   * After Cubist acquired the drug and **changed dosing to once daily (q24h)**, the company reported that efficacy and safety could be confirmed in nonclinical and clinical testing, and development continued to approval. 
+
+2. **Generated/relied on clinical data supporting the once-daily regimen in the intended indication**
+
+   * The eventual approved product is based on **4 mg/kg once daily** for complicated skin/skin-structure infections (cSSSI), consistent with the program described in the development history. 
+
+3. **Operational safety controls (typical for the approved program)**
+
+   * While I can’t quote the missing FDA letter text here, the way this risk is handled in practice (and what FDA typically expects for a muscle-toxicity signal) is:
+
+     * routine **CPK monitoring** and clear stopping rules,
+     * labeling warnings/precautions around **myopathy**,
+     * avoidance/caution with other myotoxic drugs (e.g., statins) and in renal impairment (higher exposures).
+   * The development narrative explicitly links the approvability to resolving the **CPK/myopathy** problem by moving away from BID dosing. 
+
+## About the “2001 rejection letter” date
+
+I did not find a primary-source document in this browsing session that confirms a **2001** FDA rejection letter date *and* lists the letter’s specific safety-deficiency bullets verbatim. What I did find indicates the “not approvable” milestone was described as **March 2002** in at least one secondary source. ([YUMPU][1])
+
+If you want, paste the FDA letter text you’re referring to (or link it), and I’ll extract:
+
+* the **exact rejection date**,
+* the **exact cited safety concerns (verbatim)**, and
+* a point-by-point map to what changed in the **successful resubmission**.
+
+[1]: https://www.yumpu.com/en/document/view/43952450/download-entire-report-express-scripts?utm_source=chatgpt.com "Download Entire Report - Express Scripts"
+[2]: https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm?utm_source=chatgpt.com "Drug Approval Package: Cubicin (Daptomycin) NDA #021572"
 
 
 ================================================================================
