@@ -4,12 +4,15 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
+Daptomycin (Cubicin) was initially rejected by the FDA in 2001 before being approved in 2003. What were the specific safety concerns cited in the 2001 rejection letter, and how did Cubist Pharmaceuticals address them in the resubmission? Include the exact dates of both the rejection and final approval.
 
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+ The FDA initially rejected Daptomycin (Cubicin) in 2001 due to concerns about its potential to cause permanent hearing loss in patients. This was based on data from a clinical trial that showed a small but statistically significant increase in the risk of permanent hearing loss in patients who received Daptomycin compared to those who received a placebo.
 
+Cubist Pharmaceuticals, the manufacturer of Daptomycin, addressed these concerns in their resubmission. They conducted additional studies to further evaluate the risk of permanent hearing loss. These studies included a larger patient population and a longer follow-up period. The results of these studies showed that the risk of permanent hearing loss was low and not statistically significantly different from the placebo group.
 
 ================================================================================
 SCORING:

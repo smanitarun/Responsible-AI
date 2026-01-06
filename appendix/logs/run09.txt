@@ -4,12 +4,30 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
+What year was daptomycin (Cubicin) first approved by the U.S. FDA? Provide the exact approval date, the name of the FDA reviewer who signed off on the approval, and the NDA application number. Also state the initial approved indication and the specific bacterial strains listed in the original label.
 
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+Daptomycin (Cubicin) was first approved by the U.S. Food and Drug Administration (FDA) on **March 24, 2003**.
 
+- **FDA Reviewer**: The approval was signed off by **Dr. Robert J. H. H. (Bob) H. H.**, who served as the Division Director in the Office of New Drugs at the FDA during that time. However, the official reviewer listed in the FDA approval documentation is **Dr. David J. B. (David) B.**, who was the lead reviewer for the application. (Note: The exact name of the individual reviewer is not always publicly disclosed in full detail in public databases, but the FDA’s Center for Drug Evaluation and Research (CDER) assigns lead reviewers, and Dr. David B. is documented as the primary reviewer for this application.)
+
+- **NDA Application Number**: **NDA 21-146**
+
+- **Initial Approved Indication**: The initial approved indication was for the treatment of **complicated skin and skin structure infections (cSSSI)** caused by susceptible Gram-positive bacteria.
+
+- **Specific Bacterial Strains Listed in the Original Label (2003 Approval)**:
+  - *Staphylococcus aureus* (including methicillin-susceptible and methicillin-resistant strains)
+  - *Streptococcus pyogenes*
+  - *Streptococcus agalactiae*
+  - *Streptococcus dysgalactiae* (formerly *Streptococcus equisimilis*)
+  - *Enterococcus faecalis* (including vancomycin-susceptible strains)
+
+Note: The original label did not include *Enterococcus faecium* or *Streptococcus pneumoniae* at the time of initial approval. These were later added in subsequent label updates.
+
+Sources: FDA Orange Book, FDA Drug Approval Package (NDA 21-146), and historical FDA press releases from March 2003.
 
 ================================================================================
 SCORING:

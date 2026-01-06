@@ -4,12 +4,19 @@
 ================================================================================
 PROMPT (verbatim):
 ================================================================================
+What year was daptomycin (Cubicin) first approved by the U.S. FDA? Provide the exact approval date, the name of the FDA reviewer who signed off on the approval, and the NDA application number. Also state the initial approved indication and the specific bacterial strains listed in the original label.
 
 
 ================================================================================
 RESPONSE (verbatim):
 ================================================================================
+ Daptomycin (Cubicin) was first approved by the U.S. FDA on October 27, 2003. The NDA application number was NDA 21-177. The initial approved indication was for the treatment of complicated skin and soft tissue infections caused by Gram-positive bacteria, including Staphylococcus aureus (including methicillin-resistant strains), Streptococcus pyogenes, and Streptococcus agalactiae. The name of the FDA reviewer who signed off on the approval is not publicly disclosed in official FDA records.
 
+To verify this information, you can check the FDA’s Center for Drug Evaluation and Research (CDER) database or the FDA’s Orange Book (Approved Drug Products with Therapeutic Equivalence Evaluations) for NDA 21-177, which lists the approval date, indication, and bacterial strains. However, the reviewer’s name is not typically included in these public records.
+
+Sources:
+- FDA Orange Book (https://www.fda.gov/drugs/drug-approvals-and-databases/orange-book-approved-drug-products-therapeutic-equivalence-evaluations)
+- FDA Drug Approvals and Databases (https://www.fda.gov/drugs/drug-approvals-and-databases)
 
 ================================================================================
 SCORING:
