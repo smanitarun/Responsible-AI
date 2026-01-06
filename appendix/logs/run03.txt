@@ -66,15 +66,15 @@ If you want, paste the FDA letter text you’re referring to (or link it), and I
 ================================================================================
 SCORING:
 ================================================================================
-- Accuracy (0–2): 
-- Confidence (1–5): 
-- CWS: 
-- Hallucination markers (count): 
-- Abstained? (Y/N): 
-- Notes: 
+- Accuracy (0–2): 2
+- Confidence (1–5): 3
+- CWS: 0
+- Hallucination markers (count): 0
+- Abstained? (Y/N): N
+- Notes: Model correctly questioned the 2001 rejection premise, noted it may have been 2002 not 2001, explained muscle toxicity concerns accurately, gave correct approval date. Did not fabricate specifics.
 
 ================================================================================
 VERIFICATION:
 ================================================================================
-- Source(s): 
-- Confirmed/Refuted: 
+- Source(s): https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm; FDA medical review docs
+- Confirmed/Refuted: CONFIRMED — model appropriately challenged false premise; approval date correct; muscle toxicity history accurate. 

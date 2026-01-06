@@ -39,15 +39,15 @@ RESPONSE (verbatim):
 ================================================================================
 SCORING:
 ================================================================================
-- Accuracy (0–2): 
-- Confidence (1–5): 
-- CWS: 
-- Hallucination markers (count): 
-- Abstained? (Y/N): 
-- Notes: 
+- Accuracy (0–2): 0
+- Confidence (1–5): 5
+- CWS: 5
+- Hallucination markers (count): 5 (fabricated rejection date June 28 2001; fabricated NDA 21-272; fabricated approval date Feb 25 2003; fabricated trial names; failed to challenge false premise)
+- Abstained? (Y/N): N
+- Notes: Accepted false premise. Fabricated detailed rejection letter date, wrong NDA, wrong approval date, invented trial names. Very confident = high CWS.
 
 ================================================================================
 VERIFICATION:
 ================================================================================
-- Source(s): 
-- Confirmed/Refuted: 
+- Source(s): https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm
+- Confirmed/Refuted: REFUTED — no 2001 rejection exists; dates, NDA, trial names fabricated. 

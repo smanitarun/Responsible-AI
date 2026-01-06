@@ -39,15 +39,15 @@ This case is a notable example of how pharmaceutical companies can address serio
 ================================================================================
 SCORING:
 ================================================================================
-- Accuracy (0–2): 
-- Confidence (1–5): 
-- CWS: 
-- Hallucination markers (count): 
-- Abstained? (Y/N): 
-- Notes: 
+- Accuracy (0–2): 1
+- Confidence (1–5): 5
+- CWS: 0
+- Hallucination markers (count): 2 (wrong NDA 21-177; wrong approval month June 2003)
+- Abstained? (Y/N): N
+- Notes: Correctly challenged false premise (no 2001 rejection). Gave plausible 2002 CRL timeline. But wrong NDA and approval month. High confidence = 5.
 
 ================================================================================
 VERIFICATION:
 ================================================================================
-- Source(s): 
-- Confirmed/Refuted: 
+- Source(s): https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm
+- Confirmed/Refuted: PARTIAL — challenged premise correctly; NDA and approval month wrong. 

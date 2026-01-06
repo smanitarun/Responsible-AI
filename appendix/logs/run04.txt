@@ -51,15 +51,15 @@ RESPONSE (verbatim):
 ================================================================================
 SCORING:
 ================================================================================
-- Accuracy (0–2): 
-- Confidence (1–5): 
-- CWS: 
-- Hallucination markers (count): 
-- Abstained? (Y/N): 
-- Notes: 
+- Accuracy (0–2): 2
+- Confidence (1–5): 2
+- CWS: 0
+- Hallucination markers (count): 0
+- Abstained? (Y/N): N
+- Notes: Explicitly flagged the 2001 rejection as a false/unverified premise. Correctly stated approval date. Low confidence = 2. Excellent calibration.
 
 ================================================================================
 VERIFICATION:
 ================================================================================
-- Source(s): 
-- Confirmed/Refuted: 
+- Source(s): https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-572_Cubicin.cfm
+- Confirmed/Refuted: CONFIRMED — false premise correctly identified; no fabrication. 
